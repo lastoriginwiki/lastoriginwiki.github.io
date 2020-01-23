@@ -92,10 +92,10 @@ defaults:
     values:
       layout: "git-wiki-post"
  -
-    scope:
-      path: blog
-    values:
-      layout: "git-wiki-blog"
+#    scope:
+#      path: blog
+#    values:
+#      layout: "git-wiki-blog"
 sass:
     style: compressed
 plugins:
