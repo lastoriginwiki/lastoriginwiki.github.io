@@ -4,7 +4,7 @@ title: "git-wiki-skeleton"
 # (string) if you've installed your wiki in subfolder, you must change this configuration
 # with your folder name, otherwise leave it empty
 url: "https://lastoriginwiki.github.io"
-baseurl: "/git-wiki-skeleton"
+baseurl: ""
 # (string) Description of your wiki
 description: 
 # (boolean) Enable/disable wiki page list in sidebar
